@@ -1,5 +1,5 @@
 # Hello I am Mamoudou TRAORE
-####  📨 traorem023@gmail.com
+###  📨 traorem023@gmail.com
 
 ## 🌱 Full Stack Developer
 
