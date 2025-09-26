@@ -75,6 +75,16 @@ I'm a **Master's student in Artificial Intelligence & Data Science** at Universi
 
 ## 🎯 Featured Projects
 
+### 🏥 [AI-Powered Cancer Staging Prediction with Mistral AI](https://www.baclesse.fr/)
+**DatAlgo Challenge | Centre François Baclesse | Medical AI & European Sovereignty**
+
+- **Revolutionary Medical AI Project** in partnership with Centre François Baclesse (one of France's 18 cancer centers)
+- **Multi-organ cancer staging prediction** (breast, uterus, lung, colon, prostate) using **Mistral AI models** for European digital sovereignty
+- **Advanced AI techniques**: Fine-tuning, RAG (Retrieval-Augmented Generation), and optimization strategies
+- **Project Objectives**: Develop accurate cancer staging prediction system using European AI models
+- **Tech Stack:** Mistral AI (Small/Medium/Large/Magistral), Python, Medical NLP, TNM Classification, AJCC Staging
+- **Innovation**: Implementation of European AI models in French medical oncology staging
+
 ### 🧠 [Brain Tumor Detection & Classification](https://www.kaggle.com/datasets/ahmedsorour1/mri-for-brain-tumor-with-bounding-boxes)
 **Master's Thesis Project | Computer Vision & Deep Learning**
 
