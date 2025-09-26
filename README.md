@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Mamoudou Traoré
+## <a href="https://traorem.vercel.app/"> My Portfolio</>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Data+Engineer+%26+AI+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
